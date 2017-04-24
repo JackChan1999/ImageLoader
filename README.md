@@ -1,2 +1,1 @@
-# ImageLoader
-图片加载框架
+# ImageLoader 简单图片加载框架
